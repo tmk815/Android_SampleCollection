@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
                     case 0:
                         startActivity(new Intent(MainActivity.this, RelativeLayout.class));
                         break;
+                    case 1:
+                        startActivity(new Intent(MainActivity.this, LinearLayout_Vertical.class));
                 }
             }
         });

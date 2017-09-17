@@ -3,5 +3,6 @@
 
     <string-array name="listView_item">
         <item>RelativeLayout</item>
+        <item>LinearLayout(Vertical)</item>
     </string-array>
 </resources>
