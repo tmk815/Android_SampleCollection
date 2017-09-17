@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android_SampleCollection</string>
+
+    <string-array name="listView_item">
+        <item>RelativeLayout</item>
+    </string-array>
 </resources>
